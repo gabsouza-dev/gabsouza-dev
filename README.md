@@ -4,9 +4,7 @@
 | ----------- | ----------- |
 
 <div align="center" >
-  <a href="https://skillicons.dev"   >
-    <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,nodejs,vue,figma,github,bootstrap,discord,linkedin" />
-  </a>
+  <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,nodejs,vue,figma,github,bootstrap,discord,linkedin"/> </a>
   <br />
 </div>
 
