@@ -15,6 +15,12 @@
 
 <div align="center" > <img src="https://github-profile-trophy.vercel.app/?username=gabsouza-dev&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/> </div>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabsouza-dev/gabsouza-dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercgabsouza-dev/gabsouza-dev/gabsouza-dev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabsouza-dev/gabsouza-dev/output/github-contribution-grid-snake.svg">
+</picture>
+
 <div align="center">
   <br><p align="centre"><b>Visitantes</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{gabsouza-dev}/count.svg" /></p> 
