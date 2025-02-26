@@ -20,10 +20,5 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabsouza-dev/gabsouza-dev/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center">
-  <br><p align="centre"><b>Visitantes</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{gabsouza-dev}/count.svg" /></p> 
-  <br>
-</div>
-
+<br />
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
