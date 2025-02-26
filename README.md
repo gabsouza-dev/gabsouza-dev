@@ -1,4 +1,4 @@
-![](https://github.com/orta/gabsouza-dev/raw/master/2020/output/dropped-timeline.gif)
+![](https://github.com/gabsouza-dev/gabsouza-dev/raw/main/2020/output/dropped-timeline.gif)
 
 <!--img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
