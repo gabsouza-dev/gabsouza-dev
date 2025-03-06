@@ -10,10 +10,10 @@
 
 <div align="center" >
   <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,wordpress,cypress,vscode,react,python,php,nodejs,vue,bootstrap,javascript,typescript,html,css"/> </a>
-  <br /> <br />
+  <!-- br /> <br / -->
 </div>
 
-<div align="center" > <img src="https://github-profile-trophy.vercel.app/?username=gabsouza-dev&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/> </div>
+<!-- div align="center" > <img src="https://github-profile-trophy.vercel.app/?username=gabsouza-dev&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/> </div -->
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabsouza-dev/gabsouza-dev/output/github-contribution-grid-snake-dark.svg">
