@@ -9,8 +9,18 @@
 </div>
 
 <div align="center" >
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gabsouza-dev&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/gabsouza-dev?label=Seguidores&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/gabsouza-dev?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/top/gabsouza-dev/gabsouza-dev?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hacktoberfest-Participante-orange?logo=hacktoberfest&style=flat-square" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-Ativado-blue?logo=github&style=flat-square" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-Automatizando-success?logo=github-actions&style=flat-square" />
+  <img src="https://img.shields.io/badge/Pull%20Requests-Contribuidor-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Discussions-Ativo-purple?style=flat-square" />
+  </p>
   <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,wordpress,cypress,vscode,react,php,python,vue,bootstrap,javascript,typescript,html,css"/> </a>
-  <!-- br /> <br / -->
 </div>
 
 <!-- div align="center" > <img src="https://github-profile-trophy.vercel.app/?username=gabsouza-dev&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/> </div -->
